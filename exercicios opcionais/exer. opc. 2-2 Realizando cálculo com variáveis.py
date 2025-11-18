@@ -26,16 +26,16 @@ while True:
 
     if opcao == 1:
         Som = N1 + N2
-        print("Reseultado: ",Som)
+        print("Resultado: ",Som)
     elif opcao == 2:
         Sub = N1 - N2
-        print("Reseultado: ",Sub)
+        print("Resultado: ",Sub)
     elif opcao == 3:
         Mult = N1 * N2
-        print("Reseultado: ",Mult)
+        print("Resultado: ",Mult)
     elif opcao == 4:
         Div = N1 / N2
-        print("Reseultado: ",Div)
+        print("Resultado: ",Div)
     elif opcao == 5:
         break
     else:
